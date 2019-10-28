@@ -1,0 +1,67 @@
+---
+layout: null
+title: Kudlac's - Úvod
+description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
+permalink: /
+---
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+  Jekyll integration by somiibo.com
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>{% include head.html %}</head>
+
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+						<img style="border-radius: 50%;" src="/assets/images/profile.jpg">
+            			<h1>{{site.logo}}</h1>
+						<h2>Vladan Kudláč</h2>
+						<p>Programátor, student Fakulty informačních technologí VUT v Brně,<br>železniční modelář, nadšenec do otevřeného softwaru.</p>
+
+						<ul class="actions">
+							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Pokračovat</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header"><a href="{{ "/" | absolute_url }}" class="logo">{{site.logo}}</a></header>
+
+				<!-- Nav -->
+					<nav id="nav">{% include nav.html %}</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<!-- Featured Post -->
+							<article class="post">
+								<span class="image left"><img src="{{ "assets/images/me.jpg" | absolute_url }}" alt="" /></span>
+							      <h4>Něco málo o mně:</h4>
+							      <p>Jmenuji se Vladan Kudláč, je mně 21 let a studuji druhým rokem na <a href="http://www.fit.vutbr.cz" target="_blank">Fakultě informatiky VUT v Brně</a>. Předtím jsem studoval Informační technologie na <a href="https://www.sspbrno.cz/" target="blank">Střední průmyslové škole elektrotechnické a informačních technologií</a>. Celý život bydlím v Brně. Město mám rád, stejně tak mně vyhovuje život v bytě, ale rodinnému domu v Brně či okolí bych se nebránil.</p>
+							      <p>Jsem členem <a href="https://www.kmz-brno.cz">Klubu železničních modelářů v Brně</a>, kde se podílím na budování klubovního kolejiště a celkově na chodu klubu. V rámci <a href="http://www.helceletka.cz">DDM Helceletka</a> vedu dva kroužky dětí a mládeže, kde tvoříme a pracujeme rukama (bez počítačů). Rovněž se starám o klubovní <a href="https://www.kmz-brno.cz/">web</a> a <a href="https://fb.com/kmzBrnoI">Facebook</a> a celkově o propagaci klubu a pravidelných výstav.</p>
+							      <p>Tento web píši z velké části v Markdown, do HTML jej kompiluji pomocí <a href="https://jekyllrb.com">Jekyll</a>. Píši česky a nemám důvod to měnit.</p>
+							      <ul>
+							            <li><b>Email: </b>vladankudlac@<span style="display:none;">ignoruj mě</span>gmail.com<br></li>
+							            <li><b>Facebook: </b><a href="https://facebook.com/vladan.kudlac">vladan.kudlac</a></li>
+							      </ul>
+
+							</article>
+
+					</div>
+
+				<!-- Footer -->
+        		{% include foot.html %}
+
+			</div>
+
+		<!-- Scripts -->
+		{% include scripts-main.html %}
+
+	</body>
+</html>
