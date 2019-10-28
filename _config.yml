@@ -5,7 +5,7 @@ bio:                "Kudlac's - osobní stránky"
 description:        "Kudlac's - osobní stránky"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-previous: '/second/'
+previous: 'http://kudlac.tode.cz/second/'
 
 defaults:
 - scope:
