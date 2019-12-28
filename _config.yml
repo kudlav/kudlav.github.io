@@ -39,19 +39,29 @@ facebook:           vladan.kudlac
 instagram:          kudlav
 github:             kudlav
 
-# Gems
-gems:
+# Plugins
+plugins:
   - jekyll-mentions
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-gist
-  - jekyll-paginate
+#  - jekyll-paginate
 
-paginate: 6
-paginate_path: "/blog/page:num/"
+#paginate: 6
+#paginate_path: "/blog/page:num/"
 
 jekyll-mentions:
     base_url: https://github.com
 
-# Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
+# default excludes
+exclude:
+- .sass-cache/
+- .jekyll-cache/
+- gemfiles/
+- Gemfile
+- Gemfile.lock
+- node_modules/
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
