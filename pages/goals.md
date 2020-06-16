@@ -4,6 +4,14 @@ title: Moje cíle
 sidebar_link: true
 permalink: goals/
 ---
+## Co bych si rád pořídil?
+Pokud přemýšlíte nad dárkem, může pomoct tehle seznam. Stačí když pomůžete s výběrem.
+* běžecké boty
+* boty na tennis (venkovní hra - umělý povrch/antuka)
+* šála
+* modré kraťasy
+* a pěkný oblečení a dobrý jídlo se hodí vždy...
+
 ## Moje cíle
 
 _Čeho bych chtěl v dohledné době dosáhnout?_
@@ -21,15 +29,7 @@ Všechno ale není o počítačích, žijeme i bez nich, takže
 
 ## Co bych si rád vyzkoušel?
 * svézt se na motorce
-* blbnout na kole
-
-## Co bych si rád pořídil?
-Pokud přemýšlíte nad dárkem, může pomoct tehle seznam. Stačí když pomůžete s výběrem.
-* běžecké boty
-* boty na tennis (venkovní hra - umělý povrch/antuka)
-* šála
-* mikina
-* a pěkný oblečení a dobrý jídlo se hodí vždy...
+* singletrail na kole
 
 ---
-_Naposledy aktualizováno 30. 4. 2020_
+_Naposledy aktualizováno 16. 6. 2020_
