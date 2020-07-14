@@ -1,68 +1,83 @@
 ---
 ---
 
-@import 'libs/vars';
-@import 'libs/functions';
-@import 'libs/mixins';
-@import 'libs/skel';
-@import 'font-awesome.min.css';
-@import url('https://fonts.googleapis.com/css?family=Merriweather:300,700,300italic,700italic|Source+Sans+Pro:900');
+// Font.
+$font: (
+  primary: ("PT Serif", serif)
+);
 
-/*
-	Massively by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+// Palette.
+$palette: (
+  primary:       #666666,
+  secondary:     darken(#666666, 27%),
+  meta:          lighten(#666666, 23%),
+  border:        lighten(#666666, 38%),
+  bg:            lighten(#666666, 55%),
+  accent:        #ffd300,
+  accent-blue:   #1fa2ff,
+  accent-green:  #24b466,
+  accent-red:    #f45a4e
+);
 
-	@include skel-breakpoints((
-		xlarge: '(max-width: 1680px)',
-		large: '(max-width: 1280px)',
-		medium: '(max-width: 980px)',
-		small: '(max-width: 736px)',
-		xsmall: '(max-width: 480px)',
-		xxsmall: '(max-width: 360px)'
-	));
+@import "imports/functions";
 
-	@include skel-layout((
-		reset: 'full',
-		boxModel: 'border',
-		grid: ( gutters: 1.5rem )
-	));
+@import "fontawesome.min.css";
+@import "brands.min.css";
 
-	@mixin color($p) {
-		@include color-typography($p);
-		@include color-box($p);
-		@include color-button($p);
-		@include color-form($p);
-		@include color-list($p);
-		@include color-section($p);
-		@include color-table($p);
-		@include color-pagination($p);
-	}
+@import "imports/reset";
+@import "imports/general";
+@import "imports/icons";
+@import "imports/structure";
+@import "imports/header";
+@import "imports/posts-pages";
+@import "imports/footer";
+@import "imports/animations";
+@import "imports/palettes";
+@import "imports/banner";
 
-// Base.
+.post-feed {
+  display: flex;
+  flex-wrap: wrap;
 
-	@import 'base/page';
-	@import 'base/typography';
+  .post {
+    width: 50%;
 
-// Component.
+    &:nth-child(odd) {
+      padding-right: 4em;
+      box-sizing: border-box;
+    }
+  }
 
-	@import 'components/box';
-	@import 'components/button';
-	@import 'components/form';
-	@import 'components/icon';
-	@import 'components/image';
-	@import 'components/list';
-	@import 'components/section';
-	@import 'components/table';
-	@import 'components/pagination';
+  a.post-thumbnail img {
+    transition: transform .2s ease-out;
 
-// Layout.
+    &:hover {
+      transform: scale(1.05);
+    }
 
-	@import 'layout/wrapper';
-	@import 'layout/intro';
-	@import 'layout/header';
-	@import 'layout/nav';
-	@import 'layout/main';
-	@import 'layout/footer';
-	@import 'layout/navPanel';
+  }
+
+}
+
+.inner {
+    max-width: 900px;
+}
+
+.intro {
+  display: flex;
+  align-items: center;
+  color: _palette(secondary);
+
+  img {
+    border-radius: 50%;
+    margin-right: 2em;
+  }
+}
+
+.site-header .site-header-bg, .site-header .site-header-inside {
+  opacity: 1;
+}
+
+hr {
+  border-bottom: thin dashed #c7c7c7;
+}

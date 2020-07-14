@@ -1,40 +1,26 @@
-<!DOCTYPE HTML>
-<!--
-	Massively by HTML5 UP
-	html5up.net | @ajlkn
-  Jekyll integration by somiibo.com
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html lang="cs">
-	<head>
-    {% include head.html %}
-	</head>
-	<body class="is-loading">
+---
+layout: body
+---
 
-		<!-- Wrapper -->
-		<div id="wrapper" class="fade-in">
+  {% include header.html site=site page=page image=page.img_path %}
 
-			<!-- Header -->
-			<header id="header"><a href="{{ "/" | absolute_url }}" class="logo">{{site.logo}}</a></header>
+  <div id="content" class="site-content">
+    <main class="site-main inner">
 
-			<!-- Nav -->
-			<nav id="nav">{% include nav.html %}</nav>
+      <article class="post page post-full">
+        {% assign subtitle_is_not_empty = page.subtitle | is_not_empty %}
+        {% if subtitle_is_not_empty %}
+        <div class="post-subtitle">
+          {{ page.subtitle }}
+        </div><!-- .post-subtitle -->
+        {% endif %}
+        <div class="post-content">
+          {{ content }}
+        </div><!-- .post-content -->
+      </article><!-- .post -->
 
-			<!-- Main -->
-			<div id="main">
+    </main><!-- .site-main -->
 
-				<!-- Post -->
-				<article class="post"><p>{{content}}</p></article>
+    {% include footer.html %}
 
-			</div>
-
-			<!-- Footer -->
-			{% include foot.html %}
-
-		</div>
-
-		<!-- Scripts -->
-		{% include scripts-main.html %}
-
-	</body>
-</html>
+  </div><!-- .site-content -->

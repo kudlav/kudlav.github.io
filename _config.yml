@@ -1,67 +1,66 @@
-# Site
-title:              "Kudlac's"
-logo:               "Giraffe"
-bio:                "Kudlac's - osobní stránky"
-description:        "Kudlac's - osobní stránky"
+title: "Kudlac's"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-previous: 'http://kudlac.tode.cz/second/'
-
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    permalink: "/myown/:title/"
-    layout: post
-    author:
-
-# Jekyll
-permalink:          /myown/:title/
-markdown:           kramdown
-highlighter:        rouge
-kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
+permalink: '/:title/'
+collections:
+  posts:
+    permalink: '/myown/:title/'
+description: "Kudlac's - osobní stránky"
+header:
+  title: Kudlac's
+  tagline: osobní stránky
+  logo_img: assets/images/logo.png
+  background_img: assets/images/bg.jpg
+  has_nav: true
+  nav_links:
+    - label: Úvod
+      url: /
+      style: link
+    - label: Tvorba
+      url: /myown/
+      style: link
+    - label: Co mám rád
+      url: /like/
+      style: link
+    - label: Cíle
+      url: /goals/
+      style: link
+    - label: Školní kalendář
+      url: /calendar/
+      style: link
+  has_social: true
+  social_links:
+    - label: Facebook
+      url: 'https://facebook.com/vladan.kudlac'
+      style: icon
+      icon_class: fa-facebook
+      new_window: true
+    - label: Instagram
+      url: 'https://instagram.com/kudlav'
+      style: icon
+      icon_class: fa-instagram
+      new_window: true
+    - label: GitHub
+      url: 'https://github.com/kudlav'
+      style: icon
+      icon_class: fa-github
+      new_window: true
+    - label: Předchozí verze
+      url: 'http://kudlac.tode.cz/second/'
+      new_window: true
+palette: yellow
 sass:
-  sass_dir:         assets/sass
-  style:            compressed
-
-# Comments
-disqus_shortname:   default
-
-# Social
-facebook:           vladan.kudlac
-instagram:          kudlav
-github:             kudlav
-
-# Plugins
-plugins:
-  - jekyll-mentions
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-gist
-#  - jekyll-paginate
-
-#paginate: 6
-#paginate_path: "/blog/page:num/"
-
-jekyll-mentions:
-    base_url: https://github.com
-
-# default excludes
+  indentWidth: 4
+  style: nested
+  precision: 10
 exclude:
-- .sass-cache/
-- .jekyll-cache/
-- gemfiles/
-- Gemfile
-- Gemfile.lock
-- node_modules/
-- vendor/bundle/
-- vendor/cache/
-- vendor/gems/
-- vendor/ruby/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
