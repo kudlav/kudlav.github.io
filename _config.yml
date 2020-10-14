@@ -9,8 +9,8 @@ description: "Kudlac's - osobní stránky"
 header:
   title: Kudlac's
   tagline: osobní stránky
-  logo_img: assets/images/logo.png
-  background_img: assets/images/bg.jpg
+  logo_img: assets/images/logo.webp
+  background_img: assets/images/bg.webp
   has_nav: true
   nav_links:
     - label: Úvod
