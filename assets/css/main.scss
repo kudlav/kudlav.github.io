@@ -39,12 +39,14 @@ $palette: (
   display: flex;
   flex-wrap: wrap;
 
-  .post {
-    width: 50%;
+  @media only screen and (min-width: 600px) {
+    .post {
+      width: 50%;
 
-    &:nth-child(odd) {
-      padding-right: 4em;
-      box-sizing: border-box;
+      &:nth-child(odd) {
+        padding-right: 4em;
+        box-sizing: border-box;
+      }
     }
   }
 
