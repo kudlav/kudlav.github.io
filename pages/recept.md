@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recept na hamburger
+title: Recepty
 sidebar_link: false
 permalink: recept/
 ---
@@ -9,7 +9,7 @@ permalink: recept/
 
 ---
 
-### Recept na sushi
+### Recept na Sushi
 (2-3 porce)
 * hrnek sushi rice (nebo lepkavá rýže)
 * 100 g náplně (losos šokově mražený, avokádo)
@@ -28,7 +28,7 @@ Nálev vlejeme do teplé (ne vřelé) rýže. Ocet nesmí přijít do styku s ko
 
 ---
 
-### Recept na danovi Hamburgery
+### Recept na Hamburger
 (4 porce)
 
 #### maso:
