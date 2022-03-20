@@ -18,7 +18,7 @@ Pokud přemýšlíte nad dárkem, může pomoct tehle seznam. Stačí když pom�
 * dodělat rozdělané modely (2 rozestavěné vagony + 1 netknutý)
 * přihlásit se na bežecký závod??, pro začátek nechci vyhrát, ale zúčastnit se
 
-## Co bych si rád vyzkoušel?
+## Rád bych si vyzkoušet:
 * svézt se na motorce
 * singletrail na kole
 
