@@ -25,9 +25,6 @@ header:
     - label: Cíle
       url: /goals/
       style: link
-    - label: Školní kalendář
-      url: /calendar/
-      style: link
   has_social: true
   social_links:
     - label: Facebook
