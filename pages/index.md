@@ -39,7 +39,7 @@ Jsem členem <a href="https://www.kmz-brno.cz" target="_blank" rel="noreferrer">
 ### Kontakt 🙋‍♂️
  - **Email:** vladankudlac@<span style="display:none;">ignoruj mě</span>gmail.com
  - **Facebook:** <a href="https://facebook.com/vladan.kudlac" target="_blank" rel="noreferrer">vladan.kudlac</a>
- - Pokud mi chcete poslat něco extra tajného, můžete využít můj veřejný [PGP klíč](https://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0x02043a818069aa99") s fingerprintem `61CD49044C5CF54CFD17073E02043A818069AA99`.
+ - Pokud mi chcete poslat něco extra tajného, můžete využít můj veřejný [PGP klíč](https://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0x02043a818069aa99) s fingerprintem `61CD49044C5CF54CFD17073E02043A818069AA99`.
 
 ---
 
