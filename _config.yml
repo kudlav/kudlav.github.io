@@ -19,32 +19,6 @@ header:
     - label: Tvorba
       url: /myown/
       style: link
-    - label: Co mám rád
-      url: /like/
-      style: link
-    - label: Cíle
-      url: /goals/
-      style: link
-  has_social: true
-  social_links:
-    - label: Facebook
-      url: 'https://facebook.com/vladan.kudlac'
-      style: icon
-      icon_class: fa-facebook
-      new_window: true
-    - label: Instagram
-      url: 'https://instagram.com/kudlav'
-      style: icon
-      icon_class: fa-instagram
-      new_window: true
-    - label: GitHub
-      url: 'https://github.com/kudlav'
-      style: icon
-      icon_class: fa-github
-      new_window: true
-    - label: Předchozí verze
-      url: 'http://kudlac.tode.cz/second/'
-      new_window: true
 palette: yellow
 sass:
   indentWidth: 4
