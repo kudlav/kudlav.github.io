@@ -12,7 +12,7 @@
 
 ### Developing locally
 ```
-bundle exec jekyll serve
+bundle exec jekyll serve --livereload
 ```
 You can now access your new Jekyll site from [http://127.0.0.1:4000/](http://127.0.0.1:4000/).
 # Running Your Site Locally

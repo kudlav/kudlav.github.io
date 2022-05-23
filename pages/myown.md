@@ -5,5 +5,4 @@ sidebar_link: true
 permalink: myown/
 ---
 
-## Moje tvorba
-<a class="fab fa-github" style="font-size: 150%" href="https://github.com/kudlav" rel="noreferer"> github.com/kudlav</a>
+<i class="fab fa-github"></i> <a style="font-size: 150%" href="https://github.com/kudlav" rel="noreferer">github.com/kudlav</a>

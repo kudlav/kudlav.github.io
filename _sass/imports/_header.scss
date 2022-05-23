@@ -3,7 +3,7 @@
  */
 .site-header {
   background: _palette(secondary);
-  color: #fff;
+  color: #bbb;
   position: relative;
 }
 
@@ -93,7 +93,7 @@
 
 .menu-item a:hover,
 .current-menu-item a {
-  color: _palette(border);
+  color: #fff;
 }
 
 .social-links {
@@ -128,13 +128,6 @@
       border-color: _palette(accent);
     }
   }
-}
-
-#menu-toggle {
-  position: absolute;
-  right: 4vw;
-  top: 3.33333em;
-  z-index: 9999;
 }
 
 .site-navigation-alt {
@@ -198,10 +191,6 @@
     }
   }
 
-  #menu-toggle {
-    display: none;
-  }
-
   .site-navigation {
     margin: 2.5rem auto 0;
     max-width: 280px;
@@ -240,59 +229,40 @@
 }
 
 @media only screen and (max-width: 800px) {
-  .site-navigation {
-    background: _palette(secondary);
-    box-sizing: border-box;
-    height: 100vh;
-    -webkit-overflow-scrolling: touch;
-    position: absolute;
-    right: -100%;
-    top: 0;
-    -webkit-transition: right .3s, visibility 0s .3s;
-    transition: right .3s, visibility 0s .3s;
-    visibility: hidden;
-    width: 100%;
-    z-index: 9998;
+
+  .site-header-inside {
+    padding: 1rem 4vw;
   }
 
-  .site-nav-scroll {
-    height: 100%;
-    overflow: auto;
-    -webkit-overflow-scrolling: touch;
-    position: relative;
-  }
+  .site-header-vertical {
+    display: flex;
+    justify-content: space-between;
 
-  .site-nav-inside {
-    padding: 7.5em 4vw 2.5em;
-  }
-
-  .menu-item {
-    padding: 0;
-
-    a {
-      display: block;
-      padding: 0.5em 0;
-    }
-  }
-
-  .menu--opened {
-    .site {
-      height: 100%;
-      left: 0;
-      overflow: hidden;
-      position: fixed;
-      top: 0;
-      -webkit-transform: translate3d(0, 0, 0);
-      transform: translate3d(0, 0, 0);
-      width: 100%;
-      z-index: 9997;
+    .site-branding {
+      margin-right: 0;
     }
 
-    .site-navigation {
-      right: 0;
-      -webkit-transition: right .3s ease-in-out;
-      transition: right .3s ease-in-out;
-      visibility: visible;
+    .menu {
+      border-bottom: none;
+      text-align: right;
+    }
+
+    .menu-item {
+      border: 2px dashed #ffd5003b;
+      display: inline-block;
+      padding: 0;
+      margin: .1rem .1rem;
+    }
+
+    .menu-item a {
+      display: inline-block;
+      padding: .5rem 1.5rem;
+      background-color: #ffffff12;
+    }
+
+    .menu-item a:hover,
+    .current-menu-item a {
+      background-color: #ffffff22;
     }
   }
 }

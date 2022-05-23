@@ -67,3 +67,8 @@ Pokud přemýšlíte nad dárkem, může pomoct tehle seznam. Stačí když pom�
 ## Rád bych si vyzkoušel 🧪
  - svézt se na motorce
  - singletrail na kole
+
+
+<div style="text-align:center">
+	<a href="/myown" class="button">Moje tvorba</a>
+</div>
