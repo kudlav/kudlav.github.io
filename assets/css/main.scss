@@ -13,7 +13,7 @@ $palette: (
   meta:          lighten(#666666, 23%),
   border:        lighten(#666666, 38%),
   bg:            lighten(#666666, 55%),
-  accent:        #ffd300,
+  accent:        #f5b274,
   accent-blue:   #1fa2ff,
   accent-green:  #24b466,
   accent-red:    #f45a4e
@@ -38,15 +38,11 @@ $palette: (
 .post-feed {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-between;
 
   @media only screen and (min-width: 600px) {
     .post {
-      width: 50%;
-
-      &:nth-child(odd) {
-        padding-right: 4em;
-        box-sizing: border-box;
-      }
+      width: 45%;
     }
   }
 
@@ -83,4 +79,13 @@ $palette: (
 
 hr {
   border-bottom: thin dashed #c7c7c7;
+}
+
+article p > img {
+  transition: transform .5s ease-out;
+  transform: scale(0.9);
+
+  &.visible {
+    transform: scale(1);
+  }
 }

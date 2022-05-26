@@ -27,3 +27,15 @@ document.querySelector('#to-top').addEventListener('click', function (e) {
   e.preventDefault();
   document.querySelector('#page').scrollIntoView({ behavior: 'smooth' });
 });
+
+// Image animation when gets visible
+const observer = new IntersectionObserver(entries => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('visible');
+      return;
+    }
+    entry.target.classList.remove('visible');
+  });
+});
+document.querySelectorAll('article p > img').forEach(el => observer.observe(el));
