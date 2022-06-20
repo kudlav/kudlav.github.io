@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Moje tvorba
+title: Tvorba
 sidebar_link: true
 permalink: myown/
 ---

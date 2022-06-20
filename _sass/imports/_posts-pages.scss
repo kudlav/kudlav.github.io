@@ -65,19 +65,42 @@
 .post-feed {
   .post {
     border-bottom: 1px dashed _palette(border);
-    padding-bottom: 1.66667em;
+    margin-bottom: unset;
   }
 
   .post-header,
   .post-thumbnail {
-    margin-bottom: 1em;
+    margin: 1rem 0;
   }
 
   .post-title {
     font-size: 1.66667rem;
+    margin: 0;
+    display: inline-block;
   }
 
   .post-meta {
     font-size: 14px;
   }
+}
+
+.post-date {
+  display: inline-block;
+  padding: .1rem .4rem;
+  border-radius: 24px;
+  background-color: _palette(accent);
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  vertical-align: text-bottom;
+}
+
+.post-tag {
+  display: inline-block;
+  padding: .1rem .4rem;
+  border-radius: 24px;
+  background-color: _palette(bg);
+  font-size: 12px;
+  font-weight: 700;
+  vertical-align: text-bottom;
 }

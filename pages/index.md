@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kudlac's - Úvod
+title: Úvod
 permalink: /
 description: Programátor, absolvent Fakulty informačních technologií VUT v Brně, železniční modelář, nadšenec do otevřeného softwaru.
 ---
@@ -51,14 +51,14 @@ Jsem členem <a href="https://www.kmz-brno.cz" target="_blank" rel="noreferrer">
 
 ---
 ## Co bych si rád pořídil 🎁
-Pokud přemýšlíte nad dárkem, může pomoct tehle seznam. Stačí když pomůžete s výběrem.
+Pokud přemýšlíte nad dárkem, může pomoct tenhle seznam. Stačí když pomůžete s výběrem.
  - běžecké boty
  - košile s krátkým nebo dlouhým rukávem
  - modré kraťasy
  - a pěkný oblečení a dobrý jídlo se hodí vždy...
 
 ## Čeho bych chtěl dosáhnout o volném čase 🏆
- - naučit se hrát na kytatu
+ - naučit se hrát na kytaru
  - pravidelně posilovat
  - zkouknout filmy, které mám na svých dlouhých seznamech (cca 30 filmů)
  - dodělat rozdělané modely (2 rozestavěné vagony + 1 netknutý)
