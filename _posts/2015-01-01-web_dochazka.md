@@ -3,7 +3,7 @@ layout: post
 title:  Docházka
 date:   2015-01-01
 excerpt: Jednoduchá stránka napsaná v jazyce PHP zobrazující přítomnost studentů a učitelů školy SPŠEIT Purkyňova.
-thumb_img_path: "/assets/images/web_zdeandroid.webp"
+thumb_img_path: /assets/images/web_zdeandroid.webp
 tags: webové technologie PHP cron
 ---
 
@@ -12,4 +12,4 @@ Jednoduchá stránka napsaná v jazyce PHP zobrazující přítomnost studentů 
 ![Desktop screenshot](/assets/images/web_zdewin.webp)
 ![Mobile screenshot](/assets/images/web_zdeandroid.webp)
 
-[http://dochazku.cekuj.net](http://dochazku.cekuj.net)
+ - [http://dochazku.cekuj.net](http://dochazku.cekuj.net)
