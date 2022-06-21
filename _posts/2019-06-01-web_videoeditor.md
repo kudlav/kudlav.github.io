@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Videoeditor
-date:   2019-01-02
+date:   2019-06-01
 excerpt: Online videoeditor vytvoření pomocí React, Node.js a MLT.
 thumb_img_path: /assets/images/web.webp
 tags: webové technologie React Node.js MLT
