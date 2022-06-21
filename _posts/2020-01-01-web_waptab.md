@@ -11,5 +11,5 @@ Projekt postavený na stejném základu jako videoeditor. Projekt je vytvořen s
 
 ![Personal homepage screenshot](/assets/images/web_waptab.webp)
 
- - [https://kudlac.tode.cz/waptab/](http://www.stud.fit.vutbr.cz/~xkudla15/waptab/)
+ - [https://kudlac.tode.cz/waptab](https://kudlac.tode.cz/waptab)
  - [Github](https://github.com/kudlav/waptab/)
