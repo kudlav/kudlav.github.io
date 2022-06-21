@@ -6,11 +6,12 @@
 }
 
 .post-header {
-  margin-bottom: 2.5em;
+  margin-bottom: 1.5em;
 }
 
 .post-title {
   margin-bottom: 0.66667rem;
+  display: inline-block;
 
   a {
     border: 0;
@@ -51,7 +52,7 @@
   display: inline-block;
   font-size: 0.88889rem;
   font-weight: bold;
-  padding: 0.3em 24px 0.3em 0;
+  padding: .3em 0;
   position: relative;
 
   .icon-arrow-right {
@@ -76,11 +77,22 @@
   .post-title {
     font-size: 1.66667rem;
     margin: 0;
-    display: inline-block;
   }
 
   .post-meta {
     font-size: 14px;
+  }
+
+  .post-date {
+    font-size: 14px;
+  }
+
+  .post-tag {
+    margin: .5rem 0;
+  }
+
+  .post-content p {
+    margin-bottom: 0;
   }
 }
 
@@ -89,7 +101,6 @@
   padding: .1rem .4rem;
   border-radius: 24px;
   background-color: _palette(accent);
-  font-size: 14px;
   font-weight: 700;
   letter-spacing: 1px;
   vertical-align: text-bottom;

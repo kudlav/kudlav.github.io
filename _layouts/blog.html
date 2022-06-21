@@ -24,10 +24,10 @@ layout: body
             <p>{{ post.excerpt }}</p>
           </div><!-- .post-content -->
           {% for tag in post.tags %}
-              <div class="post-tag">{{ tag }}</div>
+            <div class="post-tag">{{ tag }}</div>
           {% endfor %}
           <p class="read-more">
-            <a class="read-more-link" href="{{ post.url | relative_url }}">Zobrazit více <span class="icon-arrow-right" aria-hidden="true"></span></a>
+            <a class="read-more-link" href="{{ post.url | relative_url }}">Zobrazit více ❯</a>
           </p>
         </article><!-- .post -->
         {% endfor %}
