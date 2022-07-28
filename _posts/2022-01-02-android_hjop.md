@@ -7,7 +7,6 @@ thumb_img_path: /assets/images/android_hjop.webp
 tags: Android Java Kotlin realtime
 ---
 
-### Android Driver pro hJOP
 hJOP Driver je jednoduchá aplikace, která umožňuje připojení k [hJOPserveru](http://hjop.kmz-brno.cz) a řízení jízdy vlaků na kolejišti ve spolupráci s dispečery.
 
 Aplikaci vytvořil Miroslav Mařík v rámci diplomové práce na Mendelově univerzitě. Od roku 2020 aplikaci spravuji a doplňuji o další funkce. Aplikace je stále postavená na Javě a kód teprve čeká na refaktorizaci.

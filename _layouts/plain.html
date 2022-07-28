@@ -1,0 +1,22 @@
+---
+layout: body
+---
+
+  <div id="content" class="site-content" style="margin-left: initial;">
+    <main class="site-main inner" style="margin: auto;">
+
+      <article class="post page post-full">
+        {% assign subtitle_is_not_empty = page.subtitle | is_not_empty %}
+        {% if subtitle_is_not_empty %}
+        <div class="post-subtitle">
+          {{ page.subtitle }}
+        </div><!-- .post-subtitle -->
+        {% endif %}
+        <div class="post-content">
+          {{ content }}
+        </div><!-- .post-content -->
+      </article><!-- .post -->
+
+    </main><!-- .site-main -->
+
+  </div><!-- .site-content -->
