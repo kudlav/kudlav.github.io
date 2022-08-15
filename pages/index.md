@@ -29,7 +29,7 @@ description: Programátor, absolvent Fakulty informačních technologií VUT v B
 <!-- Main -->
 
 #### Něco málo o mně:
-Jmenuji se Vladan Kudláč, je mně 25 let a žiju v Brně. Před nedávnem jsem úspěšně zakončil magisterské studium na <a href="http://www.fit.vutbr.cz" target="_blank" rel="noreferrer">Fakultě informatiky VUT v Brně</a>. Předtím jsem studoval Informační technologie na <a href="https://www.sspbrno.cz/" target="blank" rel="noreferrer">Střední průmyslové škole elektrotechnické a informačních technologií</a>.
+Jmenuji se Vladan Kudláč, je mně 26 let a žiju v Brně. Před nedávnem jsem úspěšně zakončil magisterské studium na <a href="http://www.fit.vutbr.cz" target="_blank" rel="noreferrer">Fakultě informatiky VUT v Brně</a>. Předtím jsem studoval Informační technologie na <a href="https://www.sspbrno.cz/" target="blank" rel="noreferrer">Střední průmyslové škole elektrotechnické a informačních technologií</a>.
 
 Jsem členem <a href="https://www.kmz-brno.cz" target="_blank" rel="noreferrer">Klubu železničních modelářů v Brně</a>, kde se podílím na budování klubovního kolejiště a chodu klubu. V rámci <a href="http://www.helceletka.cz" target="_blank" rel="noreferrer">DDM Helceletka</a> vedu dva kroužky dětí a mládeže, kde tvoříme a pracujeme rukama (bez počítačů). Rovněž se starám o klubovní <a href="https://www.kmz-brno.cz/" target="_blank" rel="noreferrer">web</a> a <a href="https://fb.com/kmzBrnoI" target="_blank" rel="noreferrer">Facebook</a> a celkově o propagaci klubu a pravidelných výstav.
 
@@ -39,7 +39,7 @@ Jsem členem <a href="https://www.kmz-brno.cz" target="_blank" rel="noreferrer">
 ### Kontakt 🙋‍♂️
  - **Email:** vladankudlac@<span style="display:none;">ignoruj mě</span>gmail.com
  - **Facebook:** <a href="https://facebook.com/vladan.kudlac" target="_blank" rel="noreferrer">vladan.kudlac</a>
- - Pokud mi chcete poslat něco extra tajného, můžete využít můj veřejný [PGP klíč](https://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0x02043a818069aa99) s fingerprintem `61CD49044C5CF54CFD17073E02043A818069AA99`.
+ - Pokud mi chcete poslat něco extra tajného, můžete využít můj veřejný [PGP klíč](https://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0x02043a818069aa99) s otiskem `61CD49044C5CF54CFD17073E02043A818069AA99`.
 
 ---
 
