@@ -29,7 +29,7 @@ description: Programátor, absolvent Fakulty informačních technologií VUT v B
 <!-- Main -->
 
 #### Něco málo o mně:
-Jmenuji se Vladan Kudláč, je mně 26 let a žiju v Brně. Před nedávnem jsem úspěšně zakončil magisterské studium na <a href="http://www.fit.vutbr.cz" target="_blank" rel="noreferrer">Fakultě informatiky VUT v Brně</a>. Předtím jsem studoval Informační technologie na <a href="https://www.sspbrno.cz/" target="blank" rel="noreferrer">Střední průmyslové škole elektrotechnické a informačních technologií</a>.
+Jmenuji se Vladan Kudláč, je mně 26 let a žiju v Brně. Úspěšně jsem zakončil magisterské studium na <a href="http://www.fit.vutbr.cz" target="_blank" rel="noreferrer">Fakultě informatiky VUT v Brně</a>. Předtím jsem studoval Informační technologie na <a href="https://www.sspbrno.cz/" target="blank" rel="noreferrer">Střední průmyslové škole elektrotechnické a informačních technologií</a>.
 
 Jsem členem <a href="https://www.kmz-brno.cz" target="_blank" rel="noreferrer">Klubu železničních modelářů v Brně</a>, kde se podílím na budování klubovního kolejiště a chodu klubu. V rámci <a href="http://www.helceletka.cz" target="_blank" rel="noreferrer">DDM Helceletka</a> vedu dva kroužky dětí a mládeže, kde tvoříme a pracujeme rukama (bez počítačů). Rovněž se starám o klubovní <a href="https://www.kmz-brno.cz/" target="_blank" rel="noreferrer">web</a> a <a href="https://fb.com/kmzBrnoI" target="_blank" rel="noreferrer">Facebook</a> a celkově o propagaci klubu a pravidelných výstav.
 
@@ -53,8 +53,7 @@ Jsem členem <a href="https://www.kmz-brno.cz" target="_blank" rel="noreferrer">
 ## Co bych si rád pořídil 🎁
 Pokud přemýšlíte nad dárkem, může pomoct tenhle seznam. Stačí když pomůžete s výběrem.
  - běžecké boty
- - košile s krátkým nebo dlouhým rukávem
- - modré kraťasy
+ - košile s dlouhým rukávem
  - a pěkný oblečení a dobrý jídlo se hodí vždy...
 
 ## Čeho bych chtěl dosáhnout o volném čase 🏆
@@ -62,11 +61,11 @@ Pokud přemýšlíte nad dárkem, může pomoct tenhle seznam. Stačí když pom
  - pravidelně posilovat
  - zkouknout filmy, které mám na svých dlouhých seznamech (cca 30 filmů)
  - dodělat rozdělané modely (2 rozestavěné vagony + 1 netknutý)
- - přihlásit se na bežecký závod??, pro začátek nechci vyhrát, ale zúčastnit se
 
 ## Rád bych si vyzkoušel 🧪
  - svézt se na motorce
  - singletrail na kole
+ - surfování
 
 
 <div style="text-align:center">
