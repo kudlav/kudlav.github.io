@@ -12,6 +12,10 @@ img {
   max-width: 40%;
 }
 
+.tag-entry .entry-cover {
+  display: inherit;
+}
+
 .entry-cover {
   margin-bottom: unset
 }
