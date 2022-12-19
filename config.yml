@@ -1,0 +1,37 @@
+baseURL: "https://kudlav.github.io/"
+languageCode: "cs-CZ"
+title: "Kudlac's"
+description: "Kudlac's - osobní stránky"
+theme: "PaperMod"
+defaultTheme: "auto"
+disableSpecial1stPost: "true"
+paginate: 20
+
+params:
+  DateFormat: "2006"
+  ShowPostNavLinks: true
+  homeInfoParams:
+      Title: Hi there wave
+      Content: Can be Info, links, about...
+  socialIcons:
+    - name: "facebook"
+      url: "https://facebook.com/vladan.kudlac"
+  cover:
+    hiddenInSingle: true
+    responsiveImages: true
+  assets:
+    favicon: "favicon.ico"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+menu:
+  main:
+    - name: Úvod
+      url: /
+      weight: 1
+    - name: Tvorba
+      url: /myown/
+      weight: 2
