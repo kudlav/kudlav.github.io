@@ -6,6 +6,7 @@ theme: "PaperMod"
 defaultTheme: "auto"
 disableSpecial1stPost: "true"
 paginate: 20
+defaultContentLanguage: cs
 
 params:
   DateFormat: "2006"
