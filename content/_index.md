@@ -9,7 +9,7 @@ layout: single
 	<img src="/assets/images/profile.webp" alt="Profilová fotografie">
 	<div>
 		<h2>Vladan Kudláč</h2>
-		<p>Programátor, absolvent Fakulty informačních technologií VUT v Brně, železniční modelář, nadšenec do otevřeného softwaru.</p>
+		<p>Vývojář webových a mobilních aplikací, absolvent Fakulty informačních technologií VUT v Brně, železniční modelář, nadšenec do otevřeného softwaru.</p>
 		<div class="social-icons">
 			<a href="https://facebook.com/vladan.kudlac" target="_blank" rel="noopener noreferrer me" title="Facebook">
 				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg>
@@ -34,12 +34,13 @@ layout: single
 
 #### Něco málo o mně:
 Jmenuji se Vladan Kudláč, je mně 26 let a žiju v Brně.
-Úspěšně jsem zakončil magisterské studium na <a href="http://www.fit.vutbr.cz" target="_blank" rel="noreferrer">Fakultě informatiky VUT v Brně</a>.
-Předtím jsem studoval Informační technologie na <a href="https://www.sspbrno.cz/" target="blank" rel="noreferrer">Střední průmyslové škole elektrotechnické a informačních technologií</a>.
+Úspěšně jsem zakončil magisterské studium na [Fakultě informatiky VUT v Brně](http://www.fit.vutbr.cz).
+Předtím jsem studoval Informační technologie na [Střední průmyslové škole elektrotechnické a informačních technologií](https://www.sspbrno.cz).
+Od září 2022 pracuji jako backend TypeScript developer pro firmu [MapTiler](https://www.maptiler.com).
 
-Jsem členem <a href="https://www.kmz-brno.cz" target="_blank" rel="noreferrer">Klubu železničních modelářů v Brně</a>, kde se podílím na budování klubovního kolejiště a chodu klubu.
-V rámci <a href="http://www.helceletka.cz" target="_blank" rel="noreferrer">DDM Helceletka</a> vedu dva kroužky dětí a mládeže, kde tvoříme a pracujeme rukama (bez počítačů).
-Rovněž se starám o klubovní <a href="https://www.kmz-brno.cz/" target="_blank" rel="noreferrer">web</a> a <a href="https://fb.com/kmzBrnoI" target="_blank" rel="noreferrer">Facebook</a> a celkově o propagaci klubu a pravidelných výstav.
+Jsem členem [Klubu železničních modelářů v Brně](https://www.kmz-brno.cz), kde se podílím na budování klubovního kolejiště a chodu klubu.
+V rámci [DDM Helceletka](http://www.helceletka.cz) vedu dva kroužky dětí a mládeže, kde tvoříme a pracujeme rukama (bez počítačů).
+Rovněž se starám o klubovní [web](https://www.kmz-brno.cz) a [Facebook](https://fb.com/kmzBrnoI) a celkově o propagaci klubu a pravidelných výstav.
 
 ---
 

@@ -8,6 +8,7 @@ https://gohugo.io/installation/
 ### Ubuntu:
 ```
 sudo apt install hugo
+git submodule update --init --recursive
 ```
 
 ## Develompent
