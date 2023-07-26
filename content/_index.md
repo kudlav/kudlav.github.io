@@ -61,17 +61,15 @@ Rovněž se starám o klubovní [web](https://www.kmz-brno.cz) a [Facebook](http
 ## Co bych si rád pořídil 🎁
 Pokud přemýšlíte nad dárkem, může pomoct tenhle seznam.
 Stačí když pomůžete s výběrem.
- - Fitness hodinky (funkční, např. Garmin)
- - Ultra skladná bunda
- - Šálek na cappuccino
- - běžecké boty
  - béžová/šedá košile s dlouhým rukávem
+ - Fitness hodinky (funkční, např. Garmin) i nefitness hodinky
+ - šupleru
+ - běžecké boty
  - a pěkný oblečení a dobrý jídlo se hodí vždy...
 
 ## Čeho bych chtěl dosáhnout o volném čase 🏆
  - naučit se hrát na kytaru
  - pravidelně posilovat
- - zkouknout filmy, které mám na svých dlouhých seznamech (cca 30 filmů)
  - dodělat rozdělané modely (2 rozestavěné vagony + 1 netknutý)
 
 ## Rád bych si vyzkoušel 🧪
