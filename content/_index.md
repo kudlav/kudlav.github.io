@@ -23,6 +23,9 @@ layout: single
 			<a href="https://github.com/kudlav" target="_blank" rel="noopener noreferrer me">
 				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
 			</a>
+			<a href="mailto:vladankudlac@gmail.com">
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 21" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"> <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path> <polyline points="22,6 12,13 2,6"></polyline></svg>
+			</a>
 			<a href="https://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0x02043a818069aa99" target="_blank" rel="noopener noreferrer me">
 				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"> <path d="M8 18l2-2h2l1.36-1.36a6.5 6.5 0 1 0-3.997-3.992L2 18v4h4l2-2v-2z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="17" cy="7" r="1" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
 			</a>
@@ -33,20 +36,14 @@ layout: single
 <!-- Main -->
 
 #### Něco málo o mně:
-Jmenuji se Vladan Kudláč, je mně 26 let a žiju v Brně.
+Jmenuji se Vladan Kudláč, je mně 27 a žiju v Brně.
 Úspěšně jsem zakončil magisterské studium na [Fakultě informatiky VUT v Brně](http://www.fit.vutbr.cz).
 Předtím jsem studoval Informační technologie na [Střední průmyslové škole elektrotechnické a informačních technologií](https://www.sspbrno.cz).
 Od září 2022 pracuji jako backend TypeScript developer pro firmu [MapTiler](https://www.maptiler.com).
 
 Jsem členem [Klubu železničních modelářů v Brně](https://www.kmz-brno.cz), kde se podílím na budování klubovního kolejiště a chodu klubu.
 V rámci [DDM Helceletka](http://www.helceletka.cz) vedu dva kroužky dětí a mládeže, kde tvoříme a pracujeme rukama (bez počítačů).
-Rovněž se starám o klubovní [web](https://www.kmz-brno.cz) a [Facebook](https://fb.com/kmzBrnoI) a celkově o propagaci klubu a pravidelných výstav.
-
----
-
-### Kontakt 🙋‍♂️
- - **Email:** vladankudlac@<span style="display:none;">ignoruj mě</span>gmail.com
- - Pokud mi chcete poslat něco extra tajného, můžete využít můj veřejný [PGP klíč](https://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0x02043a818069aa99) s otiskem `61CD49044C5CF54CFD17073E02043A818069AA99`.
+Rovněž se starám o klubovní [web](https://www.kmz-brno.cz) a [Facebook](https://fb.com/kmzBrnoI) a o propagaci klubu a pravidelných výstav.
 
 ---
 

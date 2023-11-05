@@ -11,12 +11,6 @@ defaultContentLanguage: cs
 params:
   DateFormat: "2006"
   ShowPostNavLinks: true
-  homeInfoParams:
-      Title: Hi there wave
-      Content: Can be Info, links, about...
-  socialIcons:
-    - name: "facebook"
-      url: "https://facebook.com/vladan.kudlac"
   cover:
     hiddenInSingle: true
     responsiveImages: true

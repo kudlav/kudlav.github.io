@@ -83,8 +83,7 @@ img {
 .social-icons a {
   height: 2.22222rem;
   width: 2.22222rem;
-  border: 2px solid currentColor;
-  border-radius: 50%;
+  border: none;
   display: inline-flex;
   align-items: center;
   justify-content: center;
