@@ -7,7 +7,7 @@ https://gohugo.io/installation/
 
 ### Ubuntu:
 ```
-sudo apt install hugo
+sudo snap install hugo
 git submodule update --init --recursive
 ```
 
