@@ -17,5 +17,4 @@ Jedná se o neoficiální open-source aplikaci. Aplikaci vyvinul [Stanislav Svě
 ![VUT Index stav konta a prohlášení](/myown/images/android_index2.webp)
 ![VUT Index prohlížeč portálu](/myown/images/android_index3.webp)
 
- - [Google Play](https://play.google.com/store/apps/details?id=cz.kudlav.VUTIndex)
  - [GitHub](https://github.com/kudlav/VUT-index-2.0)
