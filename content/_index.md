@@ -32,10 +32,12 @@ layout: single
 		</div>
 	</div>
 </div>
-<hr>
 <!-- Main -->
 
-#### Něco málo o mně:
+---
+
+#### Něco málo o mně
+
 Jmenuji se Vladan Kudláč, je mně 27 a žiju v Brně.
 Úspěšně jsem zakončil magisterské studium na [Fakultě informatiky VUT v Brně](http://www.fit.vutbr.cz).
 Předtím jsem studoval Informační technologie na [Střední průmyslové škole elektrotechnické a informačních technologií](https://www.sspbrno.cz).
@@ -44,38 +46,62 @@ Od září 2022 pracuji jako backend TypeScript developer pro firmu [MapTiler](h
 Jsem členem [Klubu železničních modelářů v Brně](https://www.kmz-brno.cz), kde se podílím na budování klubovního kolejiště a chodu klubu.
 V rámci [DDM Helceletka](http://www.helceletka.cz) vedu dva kroužky dětí a mládeže, kde tvoříme a pracujeme rukama (bez počítačů).
 Rovněž se starám o klubovní [web](https://www.kmz-brno.cz) a [Facebook](https://fb.com/kmzBrnoI) a o propagaci klubu a pravidelných výstav.
+Nesnáším alibismus a numerické počítání.
 
 ---
 
 ## Sporty a záliby 🏊‍♂️ 🚴
-![sporty](/assets/images/like-sport.svg)
 
-![like](/assets/images/like-general.svg)
-![dislike](/assets/images/like-dislike.svg)
+<div class="post-list">
 
----
+<div class="post-entry sports">
+
+- plavání
+- tenis
+- cyklistika
+- cestování
+- lyžování
+- workout
+
+</div>
+
+<div class="post-entry likes">
+
+- kytara
+- přátelé
+- OpenStreetMap
+- dortíky
+- káva
+- otevřený software
+
+</div>
+
+</div>
 
 ## Co bych si rád pořídil 🎁
+
 Pokud přemýšlíte nad dárkem, může pomoct tenhle seznam.
 Stačí když pomůžete s výběrem.
- - béžová/šedá košile s dlouhým rukávem
- - Fitness hodinky (funkční, např. Garmin) i nefitness hodinky
- - šupleru
- - běžecké boty
- - a pěkný oblečení a dobrý jídlo se hodí vždy...
+
+- Fitness hodinky (funkční, např. Garmin) i nefitness hodinky
+- šupleru
+- smart lokátor kompatibilní s Google Find My Device, např. [Pebblebee Clip for Android](https://pebblebee.com/products/clip-for-android)
+- a pěkný oblečení a dobrý jídlo se hodí vždy...
 
 ## Čeho bych chtěl dosáhnout o volném čase 🏆
- - naučit se hrát na kytaru
- - pravidelně posilovat
- - dodělat rozdělané modely (2 rozestavěné vagony + 1 netknutý)
+
+- naučit se hrát na kytaru
+- pravidelně posilovat
+- dodělat rozdělané modely (2 rozestavěné vagony + 1 netknutý)
 
 ## Rád bych si vyzkoušel 🧪
- - paintball
- - arrow game
- - svézt se na motorce
- - singletrail na kole
- - surfování
+
+- paintball
+- arrow game
+- svézt se na motorce
+- singletrail na kole
+- surfování
 
 <div style="text-align:center">
-	<a href="/myown" class="button">Moje tvorba</a>
+<a href="/myown" class="button">Moje tvorba</a>
 </div>

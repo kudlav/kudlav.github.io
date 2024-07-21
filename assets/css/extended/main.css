@@ -113,6 +113,18 @@ img {
   justify-content: space-between;
 }
 
+.post-entry > ul {
+  margin-bottom: .6em;
+}
+
+.post-entry.sports {
+   background: #03a9f415;
+}
+
+.post-entry.likes {
+  background: #8bc34a25;
+}
+
 @media only screen and (min-width: 600px) {
   .post-entry {
     width: 49%;
