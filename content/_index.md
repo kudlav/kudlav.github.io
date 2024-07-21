@@ -6,7 +6,7 @@ layout: single
 
 <!-- Intro -->
 <div class="intro">
-	<img src="/assets/images/profile.webp" alt="Profilová fotografie">
+	<img src="https://www.gravatar.com/avatar/e31a2ba53bb6063f941c6688d79b6dae6701a6af02c76bde4383f147a17d8685?s=288" alt="Profilová fotografie">
 	<div>
 		<h2>Vladan Kudláč</h2>
 		<p>Vývojář webových a mobilních aplikací, absolvent Fakulty informačních technologií VUT v Brně, železniční modelář, nadšenec do otevřeného softwaru.</p>
