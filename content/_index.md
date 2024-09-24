@@ -85,7 +85,6 @@ Stačí když pomůžete s výběrem.
 
 - Fitness hodinky (funkční, např. Garmin) i nefitness hodinky
 - šupleru
-- smart lokátor kompatibilní s Google Find My Device, např. [Pebblebee Clip for Android](https://pebblebee.com/products/clip-for-android)
 - a pěkný oblečení a dobrý jídlo se hodí vždy...
 
 ## Čeho bych chtěl dosáhnout o volném čase 🏆
