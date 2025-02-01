@@ -5,8 +5,10 @@ description: "Kudlac's - osobní stránky"
 theme: "PaperMod"
 defaultTheme: "auto"
 disableSpecial1stPost: "true"
-paginate: 20
 defaultContentLanguage: cs
+
+pagination:
+  pagerSize: 20
 
 params:
   DateFormat: "2006"
