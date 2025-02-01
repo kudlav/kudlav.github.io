@@ -38,10 +38,10 @@ layout: single
 
 #### Něco málo o mně
 
-Jmenuji se Vladan Kudláč, je mně 27 a žiju v Brně.
+Jmenuji se Vladan Kudláč a působím v Brně.
 Úspěšně jsem zakončil magisterské studium na [Fakultě informatiky VUT v Brně](http://www.fit.vutbr.cz).
 Předtím jsem studoval Informační technologie na [Střední průmyslové škole elektrotechnické a informačních technologií](https://www.sspbrno.cz).
-Od září 2022 pracuji jako backend TypeScript developer pro firmu [MapTiler](https://www.maptiler.com).
+Od září 2022 pracuji jako backend TypeScript developer pro [MapTiler](https://www.maptiler.com).
 
 Jsem členem [Klubu železničních modelářů v Brně](https://www.kmz-brno.cz), kde se podílím na budování klubovního kolejiště a chodu klubu.
 V rámci [DDM Helceletka](http://www.helceletka.cz) vedu dva kroužky dětí a mládeže, kde tvoříme a pracujeme rukama (bez počítačů).
@@ -95,7 +95,6 @@ Stačí když pomůžete s výběrem.
 
 ## Rád bych si vyzkoušel 🧪
 
-- paintball
 - arrow game
 - svézt se na motorce
 - singletrail na kole

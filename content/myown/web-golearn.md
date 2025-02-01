@@ -1,8 +1,9 @@
 ---
 date: "2022-05-01"
-summary: Progresivní webová aplikace, která představuje výukový portál GoLearn
-  Studenti jsou vyučováni průběžnými úkoly a učitelé vidí postup svých žáků a tříd.
-tags: ["PWA","NLP","PHP","Nette","JavaScript","Python","Pandas"]
+summary:
+  Progresivní webová aplikace, která představuje výukový portál GoLearn Studenti jsou vyučováni
+  průběžnými úkoly a učitelé vidí postup svých žáků a tříd.
+tags: ["PWA", "NLP", "PHP", "Nette", "JavaScript", "Python", "Pandas"]
 ShowBreadCrumbs: true
 cover:
   image: /myown/images/golearn1.webp
@@ -18,7 +19,8 @@ Během jednoho roku jsem odladil ovládání na mobilních zařízeních, přida
 ![Drag and Drop task](/myown/images/golearn2.webp)
 
 Do stávající platformy jsem vytvořil a integroval nový typ úkolu – konverzace.
-Uživatel reaguje dle zadání úkolu a jeho řeč je převáděna na text a následně zpracována neuronovou sítí. Uživatel tak vede přirozenou konverzaci a jeho projev je automaticky ohodnocen.
+Uživatel reaguje dle zadání úkolu a jeho řeč je převáděna na text a následně zpracována neuronovou sítí.
+Uživatel tak vede přirozenou konverzaci a jeho projev je automaticky ohodnocen.
 
 ![Talking task](/myown/images/golearn3.webp)
 
@@ -28,10 +30,12 @@ Stačí vytvořit třídu a nasdílet svým studentům přístupový QR kód.
 
 ![Class report](/myown/images/golearn4.webp)
 
-Konverzace jsem vyvinul jako samostatnou JavaScriptovou knihovnu. Data dobrovolníků byla získávána v jednoduchém prostředí pro sběr dat. Následně v pohledu anotátora ohodnocena profesionálními učiteli. Anotovaná data sloužila pro vyhodnocování úspěšnosti systému automatického vyhodnocení. Prostředí provede anotátora krok po kroku každým pokusem tak, aby se soustředil vždy jen na konkrétní metriku. Analýzu dat jsem prováděl pomocí Pandas v prostředí Jupyter Notebook.
+Konverzace jsem vyvinul jako samostatnou JavaScriptovou knihovnu.
+Data dobrovolníků byla získávána v jednoduchém prostředí pro sběr dat.
+Následně v pohledu anotátora ohodnocena profesionálními učiteli.
+Anotovaná data sloužila pro vyhodnocování úspěšnosti systému automatického vyhodnocení.
+Prostředí provede anotátora krok po kroku každým pokusem tak, aby se soustředil vždy jen na konkrétní metriku.
+Analýzu dat jsem prováděl pomocí Pandas v prostředí Jupyter Notebook.
 
 ![Annotator mode](/myown/images/golearn5.webp)
 ![Annotator mode](/myown/images/golearn6.webp)
-
- - [Stránky produktu](https://diagnostics.golearn.guru)
- - [Google Play](https://play.google.com/store/apps/details?id=golearn.diagnostics.twa)

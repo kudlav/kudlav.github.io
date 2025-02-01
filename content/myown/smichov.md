@@ -1,9 +1,10 @@
 ---
 date: "2022-06-01"
 title: Osvětlení urbanistického modelu
-summary: Osvětlení urbanistického modelu pomocí WiFi kontroléru ESP32 a programovatelného
-  RGB LED pásku WS2812.
-tags: ["ESP32","WS2812","PlatformIO","C++","HTML","JavaScript"]
+summary:
+  Osvětlení urbanistického modelu pomocí WiFi kontroléru ESP32 a programovatelného RGB LED pásku
+  WS2812.
+tags: ["ESP32", "WS2812", "PlatformIO", "C++", "JavaScript", "webové technologie"]
 ShowBreadCrumbs: true
 cover:
   image: /myown/images/smichov-etapa_IV.webp
