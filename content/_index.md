@@ -83,6 +83,7 @@ Stačí když pomůžete s výběrem.
 - fitness hodinky (funkční, např. Garmin, Amazfit Bip 6)
 - klasické nefitness hodinky
 - šupleru
+- bezdrátová sluchátka s mikrofonem
 - filtrovací konvice
 - a pěkný oblečení a dobrý jídlo se hodí vždy...
 
