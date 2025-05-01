@@ -43,10 +43,7 @@ Jmenuji se Vladan Kudláč a působím v Brně.
 Předtím jsem studoval Informační technologie na [Střední průmyslové škole elektrotechnické a informačních technologií](https://www.sspbrno.cz).
 Od září 2022 pracuji jako backend TypeScript developer pro [MapTiler](https://www.maptiler.com).
 
-Jsem členem [Klubu železničních modelářů v Brně](https://www.kmz-brno.cz), kde se podílím na budování klubovního kolejiště a chodu klubu.
-V rámci [DDM Helceletka](http://www.helceletka.cz) vedu dva kroužky dětí a mládeže, kde tvoříme a pracujeme rukama (bez počítačů).
-Rovněž se starám o klubovní [web](https://www.kmz-brno.cz) a [Facebook](https://fb.com/kmzBrnoI) a o propagaci klubu a pravidelných výstav.
-Nesnáším alibismus a numerické počítání.
+O volném čase kutím, hackuju a dávám ♥ do OpenStreetMap.
 
 ---
 
@@ -83,8 +80,10 @@ Nesnáším alibismus a numerické počítání.
 Pokud přemýšlíte nad dárkem, může pomoct tenhle seznam.
 Stačí když pomůžete s výběrem.
 
-- Fitness hodinky (funkční, např. Garmin) i nefitness hodinky
+- fitness hodinky (funkční, např. Garmin, Amazfit Bip 6)
+- klasické nefitness hodinky
 - šupleru
+- filtrovací konvice
 - a pěkný oblečení a dobrý jídlo se hodí vždy...
 
 ## Čeho bych chtěl dosáhnout o volném čase 🏆
