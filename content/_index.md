@@ -80,7 +80,7 @@ O volném čase kutím, hackuju a dávám ♥ do OpenStreetMap.
 Pokud přemýšlíte nad dárkem, může pomoct tenhle seznam.
 Stačí když pomůžete s výběrem.
 
-- fitness hodinky (funkční, např. Garmin, Amazfit Bip 6)
+- fitness hodinky (funkční, např. Garmin vívoactive, Amazfit Bip 6)
 - šupleru
 - aku vrtačka
 - bezdrátová sluchátka s mikrofonem
