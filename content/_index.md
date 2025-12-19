@@ -64,7 +64,7 @@ O volném čase kutím, hackuju a dávám ♥ do OpenStreetMap.
 
 <div class="post-entry likes">
 
-- kytara
+- sauny, otužování
 - přátelé
 - OpenStreetMap
 - dortíky
@@ -80,12 +80,9 @@ O volném čase kutím, hackuju a dávám ♥ do OpenStreetMap.
 Pokud přemýšlíte nad dárkem, může pomoct tenhle seznam.
 Stačí když pomůžete s výběrem.
 
-- fitness hodinky (funkční, např. Garmin vívoactive, Amazfit Bip 6)
 - šupleru
-- aku vrtačka
-- bezdrátová sluchátka s mikrofonem
-- filtrovací konvice
-- a pěkný oblečení a dobrý jídlo se hodí vždy...
+- aku vrtačku
+- a pěkný oblečení a dobrý jídlo se hodí vždycky...
 
 ## Čeho bych chtěl dosáhnout o volném čase 🏆
 
@@ -95,6 +92,7 @@ Stačí když pomůžete s výběrem.
 
 ## Rád bych si vyzkoušel 🧪
 
+- polární noc aspoň na měsíc
 - arrow game
 - svézt se na motorce
 - singletrail na kole
